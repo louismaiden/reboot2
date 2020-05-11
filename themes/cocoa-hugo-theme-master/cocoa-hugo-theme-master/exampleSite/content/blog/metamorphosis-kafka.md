@@ -1,8 +1,9 @@
----
-date: "2015-12-21T04:03:46-06:00"
-draft: false
-title: Metamorphosis by Franz Kafka
----
++++
+date = "2015-12-21T04:03:46-06:00"
+draft = false
+title = "Metamorphosis by Franz Kafka"
+
++++
 
 ### Part One
 

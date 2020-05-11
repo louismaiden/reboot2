@@ -1,8 +1,9 @@
----
-date: "2015-12-21T04:05:25-06:00"
-draft: false
-title: Les Misérables by Victor Hugo
----
++++
+date = "2015-12-21T04:05:25-06:00"
+draft = false
+title = "Les Misérables by Victor Hugo"
+
++++
 
 Although this detail has no connection whatever with the real substance of what we are about to relate, it will not be superfluous, if merely for the sake of exactness in all points, to mention here the various rumors and remarks which had been in circulation about him from the very moment when he arrived in the diocese. 
 
