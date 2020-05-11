@@ -3,56 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://you.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/blog/this-is-just-a-test-2020-5-11/</loc>
+    <loc>/blog/this-is-just-a-test-2020-5-11/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/post/this-is-just-a-test-2020-5-11/</loc>
+    <loc>/post/this-is-just-a-test-2020-5-11/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/blog/proving-the-central-limit-theorem-using-r/</loc>
+    <loc>/blog/proving-the-central-limit-theorem-using-r/</loc>
     <lastmod>2018-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/about/colophon/</loc>
+    <loc>/about/colophon/</loc>
     <lastmod>2015-08-22T06:28:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/code/</loc>
+    <loc>/code/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://you.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://you.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

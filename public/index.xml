@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Louis Maiden</title>
-    <link>https://you.github.io/</link>
+    <link>/</link>
     <description>Recent content on Louis Maiden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://you.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>THIS IS JUST A TEST 2020-5-11</title>
-      <link>https://you.github.io/blog/this-is-just-a-test-2020-5-11/</link>
+      <link>/blog/this-is-just-a-test-2020-5-11/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://you.github.io/blog/this-is-just-a-test-2020-5-11/</guid>
+      <guid>/blog/this-is-just-a-test-2020-5-11/</guid>
       <description>hello hello there</description>
     </item>
     
     <item>
       <title>THIS IS JUST A TEST 2020-5-11</title>
-      <link>https://you.github.io/post/this-is-just-a-test-2020-5-11/</link>
+      <link>/post/this-is-just-a-test-2020-5-11/</link>
       <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://you.github.io/post/this-is-just-a-test-2020-5-11/</guid>
+      <guid>/post/this-is-just-a-test-2020-5-11/</guid>
       <description>hello hello there</description>
     </item>
     
     <item>
       <title>Proving the Central Limit Theorem using R</title>
-      <link>https://you.github.io/blog/proving-the-central-limit-theorem-using-r/</link>
+      <link>/blog/proving-the-central-limit-theorem-using-r/</link>
       <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://you.github.io/blog/proving-the-central-limit-theorem-using-r/</guid>
+      <guid>/blog/proving-the-central-limit-theorem-using-r/</guid>
       <description>What is the central limit theorem?Perhaps the most important concept in statistical inference. It gives us two primary insights:
 If a variable is normally distributed, the sampling distribution of a test statistic calculated from this variable will also be normally distributed.
 If a variable’s distribution is non-normal or unknown, the sampling distribution of its test statistics approach normality as sample size increases.</description>
@@ -42,10 +42,10 @@
     
     <item>
       <title>colophon</title>
-      <link>https://you.github.io/about/colophon/</link>
+      <link>/about/colophon/</link>
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
-      <guid>https://you.github.io/about/colophon/</guid>
+      <guid>/about/colophon/</guid>
       <description>This website is a personal homepage.
 The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoatheme. The posts are written in Markdown.
 The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
